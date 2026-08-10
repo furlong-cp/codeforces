@@ -18,7 +18,7 @@ int main() {
         /* Method 
         Do n modulo 4 and check if rem>0 and if true count++ and n-count and n module 2>0 then count++ for chickens*/
         int animal_count = 0;
-        while (n>0){
+        do{
             if (n % 4 == 0){
                 animal_count++;
                 n-=4;
@@ -28,6 +28,7 @@ int main() {
                 n-=2;
             }
         }
+        while (n>0) ;
         cout << animal_count << "
 " ;
     }
