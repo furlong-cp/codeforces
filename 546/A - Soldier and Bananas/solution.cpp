@@ -16,8 +16,9 @@ int main() {
     cin >> k >> n >> w ; 
  
     int sum = 0 ;
-    for (int i = 1 ; i <=w ; i++){
-        sum += i*k ;
+    while(w>0){
+        sum += w*k ;
+        w--;
     }
     if ( sum-n>0){
         cout << sum-n ;
@@ -25,6 +26,7 @@ int main() {
     else {
         cout << 0 ; 
     }
+ 
  
  
     return 0;
