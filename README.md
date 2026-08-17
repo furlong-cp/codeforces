@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 11 |
+| 16 | 11 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
-- [implementation](#implementation) (7)
-- [math](#math) (6)
+- [implementation](#implementation) (8)
+- [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [strings](#strings) (1)
@@ -68,6 +68,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
@@ -80,6 +81,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
