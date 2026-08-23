@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 12 |
+| 24 | 12 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -81,6 +81,7 @@
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
