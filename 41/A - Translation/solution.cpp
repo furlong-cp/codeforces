@@ -1,4 +1,4 @@
-/*#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std ; 
  
 int main (){
@@ -15,21 +15,24 @@ int main (){
             break ; 
         }
     }
-    if (found){
-        cout << "YES" ;
+    if (a.size()==b.size()){
+        if (found){
+            cout << "YES" ;
+        }
+        else {
+            cout << "NO" ; 
+        }
     }
-    else {
-        cout << "NO" ; 
-    }
+    else cout << "NO" ; 
 }
-*/
-#include <bits/stdc++.h>
+ 
+/*#include <bits/stdc++.h>
 using namespace std;
  
 int main() {
     ios::sync_with_stdio(0);
     cin.tie(0) ; 
-    
+ 
     string a, b;
     cin >> a >> b;
  
@@ -41,4 +44,4 @@ int main() {
         cout << "NO";
  
     return 0;
-}
+}*/
