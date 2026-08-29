@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+/*#include <bits/stdc++.h>
 using namespace std;
  
 int main() {
@@ -29,6 +29,21 @@ int main() {
             break;
         }
     }
+ 
+    cout << diff << " " << same;
+}*/
+ 
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    int a, b;
+    cin >> a >> b;
+ 
+    int diff = min(a, b);
+    int same = abs(a - b) / 2;
  
     cout << diff << " " << same;
 }
