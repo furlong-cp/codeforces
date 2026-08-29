@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 
 ---
@@ -22,6 +23,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 
 ### math
 
