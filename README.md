@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 3 |
+| 8 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (6)
 - [math](#math) (3)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### greedy
 
