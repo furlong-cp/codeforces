@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 4 |
+| 9 | 4 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (3)
 
 ---
@@ -36,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
+| 703A | [Mishka and Game](https://codeforces.com/contest/703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/703/A%20-%20Mishka%20and%20Game/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
