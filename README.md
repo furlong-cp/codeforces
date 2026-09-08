@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 6 |
+| 14 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (9)
-- [math](#math) (4)
+- [math](#math) (5)
 
 ---
 
@@ -34,6 +34,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 
 ### dp
 
@@ -70,6 +71,7 @@
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 
 ---
 
