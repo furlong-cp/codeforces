@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 8 |
+| 26 | 8 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (7)
-- [dp](#dp) (1)
-- [greedy](#greedy) (2)
+- [dp](#dp) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (15)
 - [math](#math) (8)
 - [sortings](#sortings) (1)
@@ -47,12 +47,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
 
 ### implementation
