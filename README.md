@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 10 |
+| 33 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (3)
@@ -31,6 +31,7 @@
 |---|---------|------------|----------|
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 
 ### brute force
 
