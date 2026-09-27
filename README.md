@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 11 |
+| 35 | 11 |
 
 ---
 
@@ -17,12 +17,12 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (3)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (19)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (20)
 - [math](#math) (10)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (3)
-- [strings](#strings) (4)
+- [sortings](#sortings) (4)
+- [strings](#strings) (5)
 
 ---
 
@@ -71,6 +71,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/1367/B%20-%20Even%20Array/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
@@ -82,6 +83,7 @@
 |---|---------|------------|----------|
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/furlong-cp/codeforces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
@@ -125,6 +127,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
 | 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
@@ -135,6 +138,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/furlong-cp/codeforces/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 
